@@ -44,3 +44,6 @@ build/
 # package-lock.json
 # yarn.lock
 # pnpm-lock.yaml
+
+# 忽略毕业设计文档（仅本地保留，不上传远程）
+毕业设计.docx
